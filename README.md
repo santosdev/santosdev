@@ -32,8 +32,8 @@ Aqui compartilho projetos acadêmicos, pessoais e experimentais, buscando demons
 
 ## 📫 Contato
 
-- LinkedIn: [Meu LinkedIn](COLOQUE_SEU_LINK)
-- E-mail: [Meu contato](mailto:SEU_EMAIL)
+- 💼 LinkedIn: [Fábio Henrique Martins](https://www.linkedin.com/in/fabiohenrique19/)
+- 📧 E-mail: [Enviar mensagem](mailto:fabiomartinshr06@gmail.com)
 
 ---
 
